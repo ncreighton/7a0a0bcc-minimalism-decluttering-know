@@ -1,2 +1,28 @@
-# 7a0a0bcc-minimalism-decluttering-know
-Professional minimalism WordPress plugin — without the professional price tag.  Regular security updates. Works with WordPress multisite. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Minimalism &amp; Decluttering Knowledge Base And Help Center — fully configured and ready to use - Clean admin settin
+# Minimalism & Decluttering Knowledge Base and Help Center WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm7sL5iT9Mwe005bucZD3x)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm7sL5iT9Mwe005bucZD3x)
+
